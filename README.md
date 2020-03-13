@@ -1,4 +1,4 @@
-# cointossanimation
+# Coin Toss Animation
 
 A new Flutter 3D Animation application.
 
