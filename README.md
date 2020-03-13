@@ -6,7 +6,7 @@ A new Flutter 3D Animation application.
 
 This project is a starting point for a Flip Coin Animation of Flutter application.
 
-# weatheranimationapp
+# Animation Flip Coin
 
 | Demo |
 |-------------------------------|
